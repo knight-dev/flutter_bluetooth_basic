@@ -3,6 +3,9 @@
 
 .packages
 .pub/
+.fvm/
+.idea/
+local.properties
 
 build/
 .idea/
